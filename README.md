@@ -1,0 +1,2 @@
+# Emoji-dic
+User friendly 
